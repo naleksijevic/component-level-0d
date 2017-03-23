@@ -1,0 +1,6 @@
+[submodule "component-level-1da"]
+	path = component-level-1da
+	url = https://github.com/naleksijevic/component-level-1da.git
+[submodule "component-level-1db"]
+	path = component-level-1db
+	url = https://github.com/naleksijevic/component-level-1da.git
